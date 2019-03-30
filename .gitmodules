@@ -1,0 +1,12 @@
+[submodule "pupil_comms"]
+	path = pupil_comms
+	url = https://github.com/Johnmper/pupil_comms.git
+[submodule "pupil_gazebo"]
+	path = pupil_gazebo
+	url = https://github.com/Johnmper/pupil_gazebo.git
+[submodule "pupil_msgs"]
+	path = pupil_msgs
+	url = https://github.com/Johnmper/pupil_msgs.git
+[submodule "pupil_utils"]
+	path = pupil_utils
+	url = https://github.com/Johnmper/pupil_utils.git
